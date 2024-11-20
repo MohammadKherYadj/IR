@@ -1,0 +1,21 @@
+id,lawyer_id,user_id,rating,review,created_at,updated_at
+1,127,1558,2,Very professional and helpful.,2/5/2024 7:47,2/15/2024 7:47
+2,141,1157,5,Not satisfied with the service.,10/27/2024 7:47,11/3/2024 7:47
+3,148,1355,3,Very professional and helpful.,1/2/2024 7:47,1/5/2024 7:47
+4,189,1050,4,Not satisfied with the service.,7/8/2024 7:47,7/14/2024 7:47
+5,144,1658,1,"Excellent service, highly recommend!",5/9/2024 7:47,5/16/2024 7:47
+6,146,1928,4,"Exceptional experience, would hire again!",4/4/2024 7:47,4/12/2024 7:47
+7,169,1194,1,"Exceptional experience, would hire again!",12/14/2023 7:47,12/19/2023 7:47
+8,190,1736,5,Not satisfied with the service.,11/28/2023 7:47,12/5/2023 7:47
+9,134,1280,3,"Good, but communication could be improved.",7/9/2024 7:47,7/14/2024 7:47
+10,197,1255,2,"Good, but communication could be improved.",2/1/2024 7:47,2/10/2024 7:47
+11,122,1957,4,Very professional and helpful.,3/14/2024 7:47,3/20/2024 7:47
+12,121,1724,4,"Excellent service, highly recommend!",5/11/2024 7:47,5/16/2024 7:47
+13,107,1351,1,"Good, but communication could be improved.",12/26/2023 7:47,1/1/2024 7:47
+14,164,1303,1,"Excellent service, highly recommend!",9/11/2024 7:47,9/14/2024 7:47
+15,115,1515,3,"Good, but communication could be improved.",7/29/2024 7:47,7/31/2024 7:47
+16,127,1490,5,"Good, but communication could be improved.",11/16/2023 7:47,11/25/2023 7:47
+17,181,1825,1,Very professional and helpful.,10/22/2024 7:47,10/31/2024 7:47
+18,110,1358,5,Not satisfied with the service.,1/30/2024 7:47,2/8/2024 7:47
+19,180,1316,4,Not satisfied with the service.,7/26/2024 7:47,7/26/2024 7:47
+20,175,1115,2,Very professional and helpful.,6/16/2024 7:47,6/26/2024 7:47
